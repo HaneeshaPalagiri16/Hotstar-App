@@ -24,7 +24,7 @@
             <li class="nav-items"><a href="#">Television</a></li>
             <li class="nav-items"><a href="#">Films</a></li>
             <li class="nav-items"><a href="#">Sports</a></li>
-            <li class="nav-items"><a href="#">Premium</a></li>
+            <li class="nav-items"><a href="#">Premium For MITS-CSE</a></li>
             <li class="nav-items"><a href="#">Honey+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
